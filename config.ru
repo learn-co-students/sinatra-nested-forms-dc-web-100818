@@ -1,2 +1,3 @@
-require './app'
+require './app.rb'
+
 run FormsLab::App
